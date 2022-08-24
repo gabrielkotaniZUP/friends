@@ -1,0 +1,9 @@
+name: novo-projeto
+description: Criar backend para trabalhar com BigData
+types:
+  - app-template
+inputs:
+  - label: Project name
+    type: text
+    name: project_name
+    default: project-name
